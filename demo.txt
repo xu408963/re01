@@ -12,4 +12,5 @@ v2.0{
     "git commit -m'提交名字'"："简化版操作"
     "git reset --hard +id":"返回指定的id操作（!不可逆）"
     "git branch":"创建分支"
+    "git checkout":"切换分支"
 }
